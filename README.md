@@ -30,6 +30,7 @@ The objective of this project is to analyze movie reviews from the IMDb dataset 
 ## 📂 Dataset
 
 - IMDb Movie Reviews Dataset
+- Dataset: IMDb Movie Reviews Dataset (download separately from Kaggle)
 
 ---
 
