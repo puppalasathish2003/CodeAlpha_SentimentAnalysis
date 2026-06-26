@@ -27,10 +27,18 @@ The objective of this project is to analyze movie reviews from the IMDb dataset 
 
 ---
 
+## Dataset
+
+This project uses the **IMDb Movie Reviews Dataset**.
+
+Due to GitHub file size considerations, the dataset is not included in this repository.
+
+You can download it from Kaggle:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ## 📂 Dataset
 
 - IMDb Movie Reviews Dataset
-- Dataset: IMDb Movie Reviews Dataset (download separately from Kaggle)
 
 ---
 
